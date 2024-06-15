@@ -9,12 +9,18 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="w-full p-10 bg-white text-black">
         <p>
-          Hello! This is a demo for <a href="">Google One Tap Sign In</a>
+          Hello! This is a demo for{" "}
+          <a href="https://viblo.asia/p/one-tap-google-sign-in-aNj4vb3K46r">
+            Google One Tap Sign In
+          </a>
         </p>
         <p>
           Made by <span className="font-bold">leeminkan</span>. Check the source
           code{" "}
-          <a href="" className="font-bold">
+          <a
+            href="https://github.com/leeminkan/nextjs-demo-google-one-tap-sign-in"
+            className="font-bold"
+          >
             here
           </a>
           !
